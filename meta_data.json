@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "demo_page": "",
+    "description": "I'm testing the plugin with a CDN",
+    "image": "//s3.amazonaws.com/appforest_uf/f1655682281614x102695220434658740/kin-diamond-medium-blue.png",
+    "license": "open_source",
+    "name": "test-cdn"
+}
